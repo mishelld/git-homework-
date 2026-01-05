@@ -2,3 +2,4 @@ oak
 pine
 Birch
 Cedar
+Maple
